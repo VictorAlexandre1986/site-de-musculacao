@@ -9,3 +9,4 @@
 
 ## Visualização
 
+<img src="Video_1654274625.gif"/>
